@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1554217122 source:/home/brian/Documents/Data_Stucture_learning/homework1_3.cpp
+	<iostream>
+
+1554295805 source:/home/brian/Documents/Data_Stucture_learning/homework2_1.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1556117089 source:/home/brian/Documents/Data_Stucture_learning/dataStucture_learning/main.cpp
+	<iostream>
+	<math.h>
+
+1554982321 source:/home/brian/Documents/Data_Stucture_learning/homework2_2.cpp
+	<iostream>
+	<stdlib.h>
+
+1554990873 source:/home/brian/Documents/Data_Stucture_learning/dataStucture_learning/test.cpp
+
+1556297697 source:/home/brian/Documents/git-learning/Data_Stucture_learning/dataStucture_learning/main.cpp
+	<iostream>
+
